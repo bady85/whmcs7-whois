@@ -68,5 +68,10 @@
          "extensions": ".ist",
           "uri": "socket://whois.afilias-srs.net",
           "available": "NOT FOUND"
+     },
+     {
+         "extensions": ".ruhr",
+         "uri": "socket://whois.nic.ruhr",
+         "available": "The queried object does not exist"
      }
 ]
