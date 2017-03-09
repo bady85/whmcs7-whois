@@ -1,0 +1,72 @@
+[
+    {
+        "extensions": ".top",
+        "uri": "socket://whois.nic.top",
+        "available": "The queried object does not exist"
+    },
+    {
+        "extensions": ".tv",
+        "uri": "socket://tvwhois.verisign-grs.com",
+        "available": "No match for"
+    },
+    {
+        "extensions": ".bayern",
+        "uri": "socket://whois.nic.bayern",
+        "available": "This domain name has not been registered"
+    },
+    {
+        "extensions": ".hamburg",
+        "uri": "socket://whois.nic.hamburg",
+        "available": "The queried object does not exist"
+    },
+    {
+        "extensions": ".versicherung",
+        "uri": "socket://whois.nic.versicherung",
+        "available": "The queried object does not exist"
+    },
+    {
+        "extensions": ".bio",
+        "uri": "socket://whois.nic.bio",
+        "available": "NOT FOUND"
+    },
+    {
+        "extensions": ".jetzt",
+        "uri": "socket://whois.nic.jetzt",
+        "available": "Domain not found"
+    },
+    {
+        "extensions": ".nrw",
+        "uri": "socket://whois.nic.nrw",
+        "available": "no matching objects found"
+    },
+    {
+        "extensions": ".koeln",
+        "uri": "socket://whois.nic.koeln",
+        "available": "no matching objects found"
+    },
+    {
+         "extensions": ".saarland",
+         "uri": "socket://whois.nic.saarland",
+         "available": "The queried object does not exist"
+     },
+     {
+         "extensions": ".wien",
+         "uri": "socket://whois.nic.wien",
+         "available": "The queried object does not exist"
+     },
+     {
+         "extensions": ".wiki",
+         "uri": "socket://whois.nic.wiki",
+         "available": "DOMAIN NOT FOUND"
+     },
+     {
+         "extensions": ".bank",
+         "uri": "socket://whois.nic.bank",
+         "available": "No match for"
+     },
+     {
+         "extensions": ".ist",
+          "uri": "socket://whois.afilias-srs.net",
+          "available": "NOT FOUND"
+     }
+]
