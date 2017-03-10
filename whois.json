@@ -45,33 +45,43 @@
         "available": "no matching objects found"
     },
     {
-         "extensions": ".saarland",
-         "uri": "socket://whois.nic.saarland",
-         "available": "The queried object does not exist"
-     },
-     {
-         "extensions": ".wien",
-         "uri": "socket://whois.nic.wien",
-         "available": "The queried object does not exist"
-     },
-     {
-         "extensions": ".wiki",
-         "uri": "socket://whois.nic.wiki",
-         "available": "DOMAIN NOT FOUND"
-     },
-     {
-         "extensions": ".bank",
-         "uri": "socket://whois.nic.bank",
-         "available": "No match for"
-     },
-     {
-         "extensions": ".ist",
-          "uri": "socket://whois.afilias-srs.net",
-          "available": "NOT FOUND"
-     },
-     {
-         "extensions": ".ruhr",
-         "uri": "socket://whois.nic.ruhr",
-         "available": "The queried object does not exist"
-     }
+       "extensions": ".saarland",
+        "uri": "socket://whois.nic.saarland",
+        "available": "The queried object does not exist"
+    },
+    {
+        "extensions": ".wien",
+        "uri": "socket://whois.nic.wien",
+        "available": "The queried object does not exist"
+    },
+    {
+        "extensions": ".wiki",
+        "uri": "socket://whois.nic.wiki",
+        "available": "DOMAIN NOT FOUND"
+    },
+    {
+        "extensions": ".bank",
+        "uri": "socket://whois.nic.bank",
+        "available": "No match for"
+    },
+    {
+        "extensions": ".ist",
+        "uri": "socket://whois.afilias-srs.net",
+        "available": "NOT FOUND"
+    },
+    {
+        "extensions": ".beer",
+        "uri": "socket://whois.nic.beer",
+        "available": "This domain name has not been registered"
+    },
+    {
+        "extensions": ".blog",
+        "uri": "socket://whois.nic.blog",
+        "available": "This domain name has not been registered"
+    },
+    {
+        "extensions": ".doctor,.gmbh,.group,.hospital,.salon,.shopping,.vin,.wine",
+        "uri": "socket://whois.donuts.co",
+        "available": "Domain not found"
+    }
 ]
