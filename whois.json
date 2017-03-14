@@ -83,5 +83,20 @@
         "extensions": ".doctor,.gmbh,.group,.hospital,.salon,.shopping,.vin,.wine",
         "uri": "socket://whois.donuts.co",
         "available": "Domain not found"
+    },
+    {
+        "extensions": ".cologne",
+        "uri": "socket://whois-fe1.pdt.cologne.tango.knipp.de",
+        "available": "no matching objects found"
+    },
+    {
+        "extensions": ".shop",
+        "uri": "socket://whois.nic.shop",
+        "available": "DOMAIN NOT FOUND"
+    },
+    {
+        "extensions": ".store",
+        "uri": "socket://whois.nic.store",
+        "available": "DOMAIN NOT FOUND"
     }
 ]
