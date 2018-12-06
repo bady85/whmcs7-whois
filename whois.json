@@ -80,7 +80,7 @@
         "available": "This domain name has not been registered"
     },
     {
-        "extensions": ".doctor,.gmbh,.group,.hospital,.salon,.shopping,.vin,.wine",
+        "extensions": ".doctor,.gmbh,.group,.hospital,.salon,.shopping,.vin,.wine,.haus,.sale,.software",
         "uri": "socket://whois.donuts.co",
         "available": "Domain not found"
     },
