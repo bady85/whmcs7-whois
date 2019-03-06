@@ -118,5 +118,25 @@
         "extensions": ".webcam",
         "uri": "socket://whois.nic.webcam",
         "available": "No Data Found"
-    }
+    },
+    {
+ "extensions": ".me",
+ "uri": "socket://whois.nic.me",
+ "available": "NOT FOUND"
+},
+{
+ "extensions": ".cloud",
+ "uri": "socket://whois.nic.cloud",
+ "available": "No Data Found"
+},
+{
+ "extensions": ".xyz",
+ "uri": "socket://whois.nic.xyz",
+ "available": "DOMAIN NOT FOUND"
+},
+{
+ "extensions": ".dev",
+ "uri": "socket://whois.nic.google",
+ "available": "Domain not found."
+} 
 ]
